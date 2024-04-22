@@ -1,4 +1,4 @@
-### Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hstewart93)](https://git.io/streak-stats)
 
 <!--
 **hstewart93/hstewart93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
