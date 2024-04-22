@@ -1,4 +1,5 @@
 ### Languages and Tools:
+<!--
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -25,7 +26,7 @@
 ### My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hstewart93&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hstewart93&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!--
 **hstewart93/hstewart93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
